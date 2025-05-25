@@ -1,0 +1,8 @@
+PROGRAMA "Soma":
+INICIO
+a = 12
+b = 2
+c = a + b
+d = 6
+RES = c + d
+FIM
